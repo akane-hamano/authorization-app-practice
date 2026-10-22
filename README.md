@@ -15,8 +15,8 @@ COACHTECH 教材 Tutorial 10-3「認可機能 ハンズオン演習」で作成�
 - 権限管理における、ポリシーとゲートについて
 
 ## 動作確認
-1．ブラウザで http://localhost にアクセス
-2．usera@example.com / password でログインする
-3．ユーザーAの投稿にのみ「編集」「削除」のボタンが表示されることを確認する
-4．ユーザーBの投稿を直接編集しようとする（http://localhost/posts/3/edit）と403エラーが表示されることを確認する
-5．ログアウト後、userb@example.com / password でログインするとユーザーBの投稿にのみ「編集」「削除」ボタンが表示されることを確認する
+- ブラウザで http://localhost にアクセス
+- usera@example.com / password でログインする
+- ユーザーAの投稿にのみ「編集」「削除」のボタンが表示されることを確認する
+- ユーザーBの投稿を直接編集しようとする（http://localhost/posts/3/edit）と403エラーが表示されることを確認する
+- ログアウト後、userb@example.com / password でログインするとユーザーBの投稿にのみ「編集」「削除」ボタンが表示されることを確認する
